@@ -1,0 +1,14 @@
+D:\Code\NET\NawaDataFinal\bin\Debug\net6.0\NawaDataFinal.exe
+D:\Code\NET\NawaDataFinal\bin\Debug\net6.0\NawaDataFinal.deps.json
+D:\Code\NET\NawaDataFinal\bin\Debug\net6.0\NawaDataFinal.runtimeconfig.json
+D:\Code\NET\NawaDataFinal\bin\Debug\net6.0\NawaDataFinal.dll
+D:\Code\NET\NawaDataFinal\bin\Debug\net6.0\NawaDataFinal.pdb
+D:\Code\NET\NawaDataFinal\obj\Debug\net6.0\NawaDataFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\NET\NawaDataFinal\obj\Debug\net6.0\NawaDataFinal.AssemblyInfoInputs.cache
+D:\Code\NET\NawaDataFinal\obj\Debug\net6.0\NawaDataFinal.AssemblyInfo.cs
+D:\Code\NET\NawaDataFinal\obj\Debug\net6.0\NawaDataFinal.csproj.CoreCompileInputs.cache
+D:\Code\NET\NawaDataFinal\obj\Debug\net6.0\NawaDataFinal.dll
+D:\Code\NET\NawaDataFinal\obj\Debug\net6.0\refint\NawaDataFinal.dll
+D:\Code\NET\NawaDataFinal\obj\Debug\net6.0\NawaDataFinal.pdb
+D:\Code\NET\NawaDataFinal\obj\Debug\net6.0\NawaDataFinal.genruntimeconfig.cache
+D:\Code\NET\NawaDataFinal\obj\Debug\net6.0\ref\NawaDataFinal.dll
