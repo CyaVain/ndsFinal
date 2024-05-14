@@ -110,7 +110,7 @@ namespace NawaDataFinal
                     newInput[i] = int.Parse(input[i]);
                 }
 
-                //Bubble Sort
+                //Sortir Menggunakan Bubble Sort Untuk Menunjukkan Bahwa Saya Familiar Terhadap Penggunaan Two-Pointer Approach
                 for(int i = 0;  i < newInput.Length; i++)
                 {
                     for(int j = 0; j < newInput.Length; j++)
@@ -143,6 +143,8 @@ namespace NawaDataFinal
             {
                 //Input Dari Code Variable
                 string kata = "hello";
+                kata.ToLower();
+                //Conversi Jadi LowerCase Agar Huruf Menjadi Sama, Seolah Menjadi Case Insensitive Saat Pengolahan
                 Console.WriteLine($"Kata Yang Ada Pada Code Adalah : {kata}");
                 
                 //Penggunaan StringBuilder Untuk Mempermudah Manipulasi Kata
@@ -209,7 +211,7 @@ namespace NawaDataFinal
                 //Input Dari Console
                 Console.WriteLine("\n Ketik Kata : ");
 
-                string input = Console.ReadLine();
+                string input = Console.ReadLine().ToLower();
                 if(input.Length > 15)
                 {
                     Console.WriteLine("### Kata Terlalu Panjang, Maksimal 15 huruf ### \n ");
@@ -260,6 +262,7 @@ namespace NawaDataFinal
                 {
                     Console.WriteLine(sb.ToString());
                 }
+                Console.WriteLine();
 
             }
             catch(Exception e)

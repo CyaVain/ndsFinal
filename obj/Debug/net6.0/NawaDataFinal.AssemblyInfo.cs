@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NawaDataFinal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ec3cf6370505e22e2d74270c14247e3270739bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("NawaDataFinal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NawaDataFinal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
